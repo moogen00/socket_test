@@ -1,0 +1,5 @@
+# ignore *.o
+*.o
+# 실행파일 
+simple_client
+simple_server
